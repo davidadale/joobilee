@@ -1,6 +1,8 @@
 {
   "name": "joobilee",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "99539891"
 }
